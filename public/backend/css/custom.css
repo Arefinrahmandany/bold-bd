@@ -1,0 +1,24 @@
+/*Product Input Box for image upload start*/
+
+.product-sub-block {
+    width: 100%;
+    padding: 16px 16px 0;
+    border: 1px solid rgba(0,0,0,.1);
+    border-radius: 8px;
+    font-family: Roboto
+}
+
+.product-sub-block .product-sub-block-tips {
+    font-size: 13px;
+    color: #999;
+}
+/*Product Input Box for image upload End*/
+
+
+
+.translate-input-container .recommendedContent {
+    margin-top: 16px;
+    background-color: #f5f8fe;
+    padding: 4px 10px;
+    border-radius: 8px;
+}
